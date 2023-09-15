@@ -17,7 +17,6 @@ pnpm install
 ### setting git remote repository
 
 ```
-rm -rf .git
 git init
 git add remote origin <ur-remote-url>
 ```
